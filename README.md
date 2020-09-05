@@ -1,7 +1,7 @@
 # 你好！
 
 ## 🛂 manifest
-  - to find how art can connect with math, coding, and science to make these topics more accessible, more creative, and more meaningful
+  - to explore the ways I can apply art to math, coding, and science to make these topics more accessible, more creative, and more meaningful to everyone who finds purpose in them
 
 ## 💾 what i've been up to 
   - graphic design
