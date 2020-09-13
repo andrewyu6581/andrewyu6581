@@ -13,7 +13,7 @@
   - css
   
 ## 📳 want my help with something?
-  - graphics!
+  - graphics
   - javascript
   - python
   
