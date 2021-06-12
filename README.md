@@ -17,7 +17,7 @@
   - javascript
   - python
   
-## 💬  want to talk about coding, love, or objective truth?
+## 💬  want to talk about coding, art, or objective truth?
   - instagram @nullmiso_
   - email nullmiso@gmail.com
   
