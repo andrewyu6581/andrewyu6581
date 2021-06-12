@@ -1,7 +1,7 @@
 # 你好！
 
 ## 🛂 manifest
-  - to explore the ways I can apply art to computer science to make this topic more accessible, more creative, and more meaningful
+  - to explore the ways I can apply art to make CS more accessible, creative, and meaningful
   
 ## 💾 what i've been up to 
   - graphic design
