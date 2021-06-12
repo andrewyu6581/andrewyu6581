@@ -1,12 +1,12 @@
 # 你好！
 
 ## 🛂 manifest
-  - to explore the ways I can apply art to math, coding, and science to make these topics more accessible, more creative, and more meaningful to everyone who finds purpose in them
-
+  - to explore the ways I can apply art to computer science to make this topic more accessible, more creative, and more meaningful
+  
 ## 💾 what i've been up to 
   - graphic design
-  - website styling
-  - playing honkai impact 3rd 
+  - website construction
+  - playing arknights & chess
 
 ## 🔗 what i wanna learn
   - html
@@ -19,6 +19,6 @@
   
 ## 💬  want to talk about coding, love, or objective truth?
   - instagram @nullmiso_
-  - contact my email thru nullmiso.carbonmade.com
+  - email nullmiso@gmail.com
   
 ## ㊙️ thanks for dropping by, friend!
