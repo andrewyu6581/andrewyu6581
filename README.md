@@ -1,24 +1,22 @@
 # 你好！
 
 ## 🛂 manifest
-  - to explore the ways I can apply art to make CS more accessible, creative, and meaningful
+  - applying art to make CS more accessible, creative, and meaningful
   
-## 💾 what i've been up to 
+## 💾 skills
   - graphic design
   - website construction
   - playing arknights & chess
 
-## 🔗 what i wanna learn
+## 🔗 languages
   - html
   - css
-  
-## 📳 want my help with something?
-  - graphics
   - javascript
   - python
   
-## 💬  want to talk about coding, art, or objective truth?
+## 💬 contacts
   - instagram @nullmiso_
+  - twitter @nullmiso_
   - email nullmiso@gmail.com
   
-## ㊙️ thanks for dropping by, friend!
+## ㊙️ thanks for dropping by!
