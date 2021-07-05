@@ -14,9 +14,4 @@
   - javascript
   - python
   
-## 💬 contacts
-  - instagram @nullmiso_
-  - twitter @nullmiso_
-  - email nullmiso@gmail.com
-  
 ## ㊙️ thanks for dropping by!
