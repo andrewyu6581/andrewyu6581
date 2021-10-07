@@ -1,11 +1,9 @@
 # 你好！
-
-## 🛂 manifest
-  - applying art to make CS more accessible, creative, and meaningful
   
 ## 💾 skills
   - graphic design
   - website construction
+  - ml
   - playing arknights & chess
 
 ## 🔗 languages
