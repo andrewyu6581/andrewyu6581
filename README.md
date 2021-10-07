@@ -2,7 +2,7 @@
   
 ## 💾 skills
   - graphic design
-  - website construction
+  - website design
   - ml
   - playing arknights & chess
 
