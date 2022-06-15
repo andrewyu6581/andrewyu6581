@@ -1,15 +1,14 @@
-# 你好！
+# hello！
   
-## 💾 skills
+## skills
   - graphic design
   - website design
   - ml
-  - playing arknights & chess
+  - playing chess
 
-## 🔗 languages
-  - html
-  - css
-  - javascript
+## languages
+  - c++
+  - java
   - python
   
-## ㊙️ thanks for dropping by!
+## thanks for dropping by!
