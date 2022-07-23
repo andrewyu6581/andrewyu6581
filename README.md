@@ -2,7 +2,7 @@
   
 ## skills
   - graphic design
-  - website design
+  - data analysis
   - ml
   - playing chess
 
