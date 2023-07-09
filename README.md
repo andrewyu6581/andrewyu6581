@@ -1,14 +1,13 @@
-# hello！
+# Hello！
   
-## skills
-  - graphic design
-  - data analysis
-  - ml
-  - playing chess
+## Skills
+  - Graphic design
+  - Data analysis
+  - ML
 
-## languages
-  - c++
-  - java
-  - python
+## Languages
+  - C++
+  - Java
+  - Python
   
-## thanks for dropping by!
+## Thanks for dropping by!
