@@ -1,6 +1,6 @@
 ### About me
   - Student & researcher @ University of California, Santa Barbara
-  - Focus on machine learning, with other interests in blockchain and education
+  - Focuses on machine learning, with interests in blockchain and education
   - Likes photography, sketching, and crate-digging for music on Spotify
 ### Feel free to visit
   - [Website](https://nullmiso.github.io/site)
